@@ -14,7 +14,7 @@ export default [
     {
         id: 2,
         img: "vietcong.jpeg",
-        title: "Vietcong army",
+        title: "History of Vietcong",
         location: "Laos",
         stats: {
             reviewCount: 18,
